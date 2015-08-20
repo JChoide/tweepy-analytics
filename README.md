@@ -1,4 +1,4 @@
-# tweepy-analytics
+# Fiorentina vs. Benfica
 
 Contains the code for my Fiorentina vs Benfica mini-project.
 Includes:
